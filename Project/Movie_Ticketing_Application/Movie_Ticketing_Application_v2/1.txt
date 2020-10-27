@@ -1,0 +1,5 @@
+Ticket Id : 1 
+User Id : 1 
+Movie Name : AVENGERS 
+Number Of Tickets : 2
+COST : 300
